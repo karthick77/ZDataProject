@@ -4,7 +4,7 @@ public class AddLogic {
 
 	public static void main(String[] args) {
 
-		int a = 11;
+		int a = 19;
 		int b = 5;
 		int result = a+b;
 		
